@@ -1,0 +1,86 @@
+{
+	"Articles": {
+		"Article": [
+			{
+				"_id": "2018123100340023012",
+				"_category": "national",
+				"_newspaper": "thehindu",
+				"_Articlelink": "url",
+				"_ArticleImage": "",
+				"_ArticleSummary": "",
+				"_ArticleContent": "",
+				"_PublishedDate": ""
+			},
+			{
+				"_id": "2018123100340023013",
+				"_category": "national",
+				"_newspaper": "thehindu",
+				"_Articlelink": "url",
+				"_ArticleImage": "",
+				"_ArticleSummary": "",
+				"_ArticleContent": "",
+				"_PublishedDate": ""
+			},
+			{
+				"_id": "2018123100340023014",
+				"_category": "national",
+				"_newspaper": "livemint",
+				"_Articlelink": "url",
+				"_ArticleImage": "",
+				"_ArticleSummary": "",
+				"_ArticleContent": "",
+				"_PublishedDate": ""
+			},
+			{
+				"_id": "2018123100340023015",
+				"_category": "world",
+				"_newspaper": "thehindu",
+				"_Articlelink": "url",
+				"_ArticleImage": "",
+				"_ArticleSummary": "",
+				"_ArticleContent": "",
+				"_PublishedDate": ""
+			},
+			{
+				"_id": "2018123100340023016",
+				"_category": "national",
+				"_newspaper": "livemint",
+				"_Articlelink": "url",
+				"_ArticleImage": "",
+				"_ArticleSummary": "",
+				"_ArticleContent": "",
+				"_PublishedDate": ""
+			},
+			{
+				"_id": "2018123100340023017",
+				"_category": "world",
+				"_newspaper": "livemint",
+				"_Articlelink": "url",
+				"_ArticleImage": "",
+				"_ArticleSummary": "",
+				"_ArticleContent": "",
+				"_PublishedDate": ""
+			},
+			{
+				"_id": "2018123100340023018",
+				"_category": "national",
+				"_newspaper": "livemint",
+				"_Articlelink": "url",
+				"_ArticleImage": "",
+				"_ArticleSummary": "",
+				"_ArticleContent": "",
+				"_PublishedDate": ""
+			},
+			{
+				"_id": "2018123100340023019",
+				"_category": "world",
+				"_newspaper": "thehindu",
+				"_Articlelink": "url",
+				"_ArticleImage": "",
+				"_ArticleSummary": "",
+				"_ArticleContent": "",
+				"_PublishedDate": ""
+			}
+		]
+	}
+}

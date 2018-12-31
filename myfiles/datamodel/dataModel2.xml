@@ -1,0 +1,19 @@
+<Articles>
+    <Article id="2018123100340023012" category="national" newspaper="thehindu" Articlelink="url" ArticleImage="" ArticleSummary="" ArticleContent="" PublishedDate="" />
+    <Article id="2018123100340023013" category="national" newspaper="thehindu" Articlelink="url" ArticleImage="" ArticleSummary="" ArticleContent="" PublishedDate="" />
+    <Article id="2018123100340023014" category="national" newspaper="livemint" Articlelink="url" ArticleImage="" ArticleSummary="" ArticleContent="" PublishedDate="" />
+    <Article id="2018123100340023015" category="world" newspaper="thehindu" Articlelink="url" ArticleImage="" ArticleSummary="" ArticleContent="" PublishedDate="" />
+    <Article id="2018123100340023016" category="national" newspaper="livemint" Articlelink="url" ArticleImage="" ArticleSummary="" ArticleContent="" PublishedDate="" />
+    <Article id="2018123100340023017" category="world" newspaper="livemint" Articlelink="url" ArticleImage="" ArticleSummary="" ArticleContent="" PublishedDate="" />
+    <Article id="2018123100340023018" category="national" newspaper="livemint" Articlelink="url" ArticleImage="" ArticleSummary="" ArticleContent="" PublishedDate="" />
+    <Article id="2018123100340023019" category="world" newspaper="thehindu" Articlelink="url" ArticleImage="" ArticleSummary="" ArticleContent="" PublishedDate="" />
+</Articles>
+
+
+-------------Elastic search data model
+
+Index --> Articles 
+Type --> category
+Document --> Article ID
+Shards - 5 (default)
+Replication Factor - 0

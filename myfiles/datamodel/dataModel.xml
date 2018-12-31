@@ -1,0 +1,29 @@
+<NewsPapers>
+    <NewsPaper Name="thehindu">
+        <Categories>
+            <Category Name="national" RssFeed="https://www.thehindu.com/news/national/feeder/default.rss" />
+            <Category Name="world" RssFeed="https://www.thehindu.com/news/international/feeder/default.rss" />
+            <Category Name="editorials" RssFeed="https://www.thehindu.com/opinion/feeder/default.rss" />
+            <Category Name="scitech" RssFeed="https://www.thehindu.com/sci-tech/science/feeder/default.rss" />
+            <Category Name="business" RssFeed="https://www.thehindu.com/business/feeder/default.rss" />
+        </Categories>
+    </NewsPaper>
+    <NewsPaper Name="livemint">
+        <Categories>
+            <Category Name="national" RssFeed="" />
+            <Category Name="world" RssFeed="" />
+            <Category Name="editorials" RssFeed="https://www.livemint.com/rss/opinion" />
+            <Category Name="scitech" RssFeed="" />
+            <Category Name="business" RssFeed="https://www.livemint.com/rss/companies" />
+        </Categories>
+    </NewsPaper>
+    <NewsPaper Name="indianexpress">
+        <Categories>
+            <Category Name="national" RssFeed="https://indianexpress.com/section/india/feed/" />
+            <Category Name="world" RssFeed="https://indianexpress.com/section/world/feed/" />
+            <Category Name="editorials" RssFeed="https://indianexpress.com/section/opinion/editorials/feed/" />
+            <Category Name="opinion" RssFeed="https://indianexpress.com/section/opinion/feed/" />
+            <Category Name="scitech" RssFeed="https://indianexpress.com/section/technology/feed/" />
+        </Categories>
+    </NewsPaper>
+</NewsPapers>
